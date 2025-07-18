@@ -178,7 +178,7 @@ const projects = [
     },
     {
         name: "FoodieCart",
-        description: "FoodieCart is a fully authenticated eCommerce website for selling food online. Built using the MEAN stack, it provides a seamless experience for customers to browse, order, and pay for their favorite dishes.",
+        description: "FoodieCart is a fully authenticated eCommerce website for selling food online. Built using the MERN stack, it provides a seamless experience for customers to browse, order, and pay for their favorite dishes.",
         tags: [
             {
                 name: "MERN Stack",
