@@ -41,7 +41,7 @@ const About = () => {
                 variants={fadeIn("", "", 0.1, 1)}
                 className="mt-4 max-w-3xl text-[17px] leading-[30px] text-secondary"
             >
-                I am a result-driven Software Engineer with over 3 years of full-stack experience in architecting and scaling enterprise-level applications. Specializing in the MERN stack, AWS cloud services, Azure services, GCP services and modern JavaScript frameworks, I excel in designing robust, scalable solutions that drive business success. My leadership in agile environments and commitment to continuous improvement ensures on-time delivery and superior performance.
+                I am a result-driven Software Engineer with over 4 years of full-stack experience in architecting and scaling enterprise-level applications. Specializing in the MERN stack, AWS cloud services, Azure services, GCP services and modern JavaScript frameworks, I excel in designing robust, scalable solutions that drive business success. My leadership in agile environments and commitment to continuous improvement ensures on-time delivery and superior performance.
             </motion.p>
 
             <div
